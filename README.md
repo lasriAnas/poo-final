@@ -63,3 +63,8 @@
 - we use the `quitter()` method to exit the program.
 
 ![img_9.png](img_9.png)
+
+#### difficulties ####
+
+- checking for null values before performing each action.
+- 
