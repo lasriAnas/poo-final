@@ -190,7 +190,7 @@ public class GestionEmployes {
         }
     }
 
-    //calculates masseSalaire by iterating over the array and adding each emplyee's salaire together
+    //calculates masseSalaire by iterating over the array and adding each emplyee's salaire to the total
     public static void calculerMasseSalariale() {
         double masseSalaire = 0;
 
