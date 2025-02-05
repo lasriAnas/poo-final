@@ -167,7 +167,7 @@ public class GestionEmployes {
             }
         }
     }
-    //this searches using nom and poste (instead of nom or poste that was requested) because there could be multiple people with same name or job description
+    //this searches using nom and poste (instead of nom OR poste that was requested) because there could be multiple people with same name or job description
     public static void rechercherEmploye() {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Entrez le nom de l'employé : ");
