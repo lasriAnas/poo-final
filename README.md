@@ -68,4 +68,4 @@
 
 - checking for null values before performing each action.
 - learning how to sort using Array.stream.sorted because the code looked more elegant.
-- 
+  
